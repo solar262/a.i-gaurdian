@@ -1,0 +1,5 @@
+{
+  "name": "CyberGuard AI: Threat Intelligence Briefing",
+  "description": "An AI-powered security tool that generates comprehensive threat intelligence briefings on any topic, helping users identify vulnerabilities, understand mitigation strategies, and stay ahead of potential cyber threats.",
+  "requestFramePermissions": []
+}
